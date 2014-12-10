@@ -1,0 +1,190 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+4 items
+D:\dev\apex\apex-utils\src\main\java -> D:\dev\apex\apex-utils\target\scala-2.11\classes
+D:\dev\apex\apex-utils\src\main\scala -> D:\dev\apex\apex-utils\target\scala-2.11\classes
+D:\dev\apex\apex-utils\src\test\java -> D:\dev\apex\apex-utils\target\scala-2.11\test-classes
+D:\dev\apex\apex-utils\src\test\scala -> D:\dev\apex\apex-utils\target\scala-2.11\test-classes
+compile options:
+8 items
+0 -> -javabootclasspath
+1 -> C:\Program Files\Java\jre7\lib\resources.jar;C:\Program Files\Java\jre7\lib\rt.jar;C:\Program Files\Java\jre7\lib\jsse.jar;C:\Program Files\Java\jre7\lib\jce.jar;C:\Program Files\Java\jre7\lib\charsets.jar;C:\Program Files\Java\jre7\lib\jfr.jar;C:\Program Files\Java\jre7\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jre7\lib\ext\dnsns.jar;C:\Program Files\Java\jre7\lib\ext\jaccess.jar;C:\Program Files\Java\jre7\lib\ext\localedata.jar;C:\Program Files\Java\jre7\lib\ext\sunec.jar;C:\Program Files\Java\jre7\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jre7\lib\ext\sunmscapi.jar;C:\Program Files\Java\jre7\lib\ext\zipfs.jar
+2 -> -javaextdirs
+3 ->  
+4 -> -bootclasspath
+5 -> C:\scala-ide-4.00-RC1\plugins\org.scala-lang.scala-library_2.11.4.v20141023-110636-d783face36.jar
+6 -> -encoding
+7 -> Cp1252
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+24 items
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\ApexUtils$$anonfun$1.class
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\ApexUtils$$anonfun$2.class
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\ApexUtils$$anonfun$3.class
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\ApexUtils$$anonfun$randomString$1.class
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\ApexUtils$.class
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\ApexUtils$ReadableDurationOps.class
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\ApexUtils$ReadableInstantOps.class
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\ApexUtils$ReadablePartialOps.class
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\ApexUtils$StringUuidOps.class
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\ApexUtils$UuidOps.class
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\ApexUtils.class
+D:\dev\apex\apex-utils\src\main\scala\apexutils\Ascii85Coder.scala -> D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\Ascii85Coder$$anonfun$decodeAscii85StringToBytes$1.class
+D:\dev\apex\apex-utils\src\main\scala\apexutils\Ascii85Coder.scala -> D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\Ascii85Coder$$anonfun$decodeAscii85StringToBytes$2.class
+D:\dev\apex\apex-utils\src\main\scala\apexutils\Ascii85Coder.scala -> D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\Ascii85Coder$$anonfun$decodeAscii85StringToBytes$3.class
+D:\dev\apex\apex-utils\src\main\scala\apexutils\Ascii85Coder.scala -> D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\Ascii85Coder$.class
+D:\dev\apex\apex-utils\src\main\scala\apexutils\Ascii85Coder.scala -> D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\Ascii85Coder.class
+D:\dev\apex\apex-utils\src\main\scala\apexutils\AutomaticResourceManagement.scala -> D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\AutomaticResourceManagement$.class
+D:\dev\apex\apex-utils\src\main\scala\apexutils\AutomaticResourceManagement.scala -> D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\AutomaticResourceManagement.class
+D:\dev\apex\apex-utils\src\main\scala\apexutils\WSProxy.scala -> D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\WSProxy$$anonfun$1.class
+D:\dev\apex\apex-utils\src\main\scala\apexutils\WSProxy.scala -> D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\WSProxy$.class
+D:\dev\apex\apex-utils\src\main\scala\apexutils\WSProxy.scala -> D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\WSProxy$ProxiedWS$$anonfun$withProxy$1.class
+D:\dev\apex\apex-utils\src\main\scala\apexutils\WSProxy.scala -> D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\WSProxy$ProxiedWS$$anonfun$withProxy$2.class
+D:\dev\apex\apex-utils\src\main\scala\apexutils\WSProxy.scala -> D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\WSProxy$ProxiedWS.class
+D:\dev\apex\apex-utils\src\main\scala\apexutils\WSProxy.scala -> D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\WSProxy.class
+binary dependencies:
+12 items
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> C:\Program Files\Java\jre7\lib\rt.jar
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> C:\scala-ide-4.00-RC1\plugins\org.scala-lang.scala-library_2.11.4.v20141023-110636-d783face36.jar
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> C:\Users\rpiaggio\.ivy2\cache\joda-time\joda-time\jars\joda-time-2.5.jar
+D:\dev\apex\apex-utils\src\main\scala\apexutils\Ascii85Coder.scala -> C:\Program Files\Java\jre7\lib\rt.jar
+D:\dev\apex\apex-utils\src\main\scala\apexutils\Ascii85Coder.scala -> C:\scala-ide-4.00-RC1\plugins\org.scala-lang.scala-library_2.11.4.v20141023-110636-d783face36.jar
+D:\dev\apex\apex-utils\src\main\scala\apexutils\Ascii85Coder.scala -> C:\Users\rpiaggio\.ivy2\cache\org.freehep\freehep-io\jars\freehep-io-2.2.2.jar
+D:\dev\apex\apex-utils\src\main\scala\apexutils\AutomaticResourceManagement.scala -> C:\Program Files\Java\jre7\lib\rt.jar
+D:\dev\apex\apex-utils\src\main\scala\apexutils\AutomaticResourceManagement.scala -> C:\scala-ide-4.00-RC1\plugins\org.scala-lang.scala-library_2.11.4.v20141023-110636-d783face36.jar
+D:\dev\apex\apex-utils\src\main\scala\apexutils\WSProxy.scala -> C:\Program Files\Java\jre7\lib\rt.jar
+D:\dev\apex\apex-utils\src\main\scala\apexutils\WSProxy.scala -> C:\scala-ide-4.00-RC1\plugins\org.scala-lang.scala-library_2.11.4.v20141023-110636-d783face36.jar
+D:\dev\apex\apex-utils\src\main\scala\apexutils\WSProxy.scala -> C:\Users\rpiaggio\.ivy2\cache\com.typesafe.play\play-ws_2.11\jars\play-ws_2.11-2.3.6.jar
+D:\dev\apex\apex-utils\src\main\scala\apexutils\WSProxy.scala -> C:\Users\rpiaggio\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.3.6.jar
+direct source dependencies:
+2 items
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> D:\dev\apex\apex-utils\src\main\scala\apexutils\Ascii85Coder.scala
+D:\dev\apex\apex-utils\src\main\scala\apexutils\WSProxy.scala -> D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+24 items
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> apexutils.ApexUtils
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> apexutils.ApexUtils$
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> apexutils.ApexUtils$$anonfun$1
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> apexutils.ApexUtils$$anonfun$2
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> apexutils.ApexUtils$$anonfun$3
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> apexutils.ApexUtils$$anonfun$randomString$1
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> apexutils.ApexUtils$ReadableDurationOps
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> apexutils.ApexUtils$ReadableInstantOps
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> apexutils.ApexUtils$ReadablePartialOps
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> apexutils.ApexUtils$StringUuidOps
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> apexutils.ApexUtils$UuidOps
+D:\dev\apex\apex-utils\src\main\scala\apexutils\Ascii85Coder.scala -> apexutils.Ascii85Coder
+D:\dev\apex\apex-utils\src\main\scala\apexutils\Ascii85Coder.scala -> apexutils.Ascii85Coder$
+D:\dev\apex\apex-utils\src\main\scala\apexutils\Ascii85Coder.scala -> apexutils.Ascii85Coder$$anonfun$decodeAscii85StringToBytes$1
+D:\dev\apex\apex-utils\src\main\scala\apexutils\Ascii85Coder.scala -> apexutils.Ascii85Coder$$anonfun$decodeAscii85StringToBytes$2
+D:\dev\apex\apex-utils\src\main\scala\apexutils\Ascii85Coder.scala -> apexutils.Ascii85Coder$$anonfun$decodeAscii85StringToBytes$3
+D:\dev\apex\apex-utils\src\main\scala\apexutils\AutomaticResourceManagement.scala -> apexutils.AutomaticResourceManagement
+D:\dev\apex\apex-utils\src\main\scala\apexutils\AutomaticResourceManagement.scala -> apexutils.AutomaticResourceManagement$
+D:\dev\apex\apex-utils\src\main\scala\apexutils\WSProxy.scala -> apexutils.WSProxy
+D:\dev\apex\apex-utils\src\main\scala\apexutils\WSProxy.scala -> apexutils.WSProxy$
+D:\dev\apex\apex-utils\src\main\scala\apexutils\WSProxy.scala -> apexutils.WSProxy$$anonfun$1
+D:\dev\apex\apex-utils\src\main\scala\apexutils\WSProxy.scala -> apexutils.WSProxy$ProxiedWS
+D:\dev\apex\apex-utils\src\main\scala\apexutils\WSProxy.scala -> apexutils.WSProxy$ProxiedWS$$anonfun$withProxy$1
+D:\dev\apex\apex-utils\src\main\scala\apexutils\WSProxy.scala -> apexutils.WSProxy$ProxiedWS$$anonfun$withProxy$2
+used names:
+0 items
+product stamps:
+24 items
+D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\ApexUtils$$anonfun$1.class -> lastModified(1415376022557)
+D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\ApexUtils$$anonfun$2.class -> lastModified(1415376022557)
+D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\ApexUtils$$anonfun$3.class -> lastModified(1415376022567)
+D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\ApexUtils$$anonfun$randomString$1.class -> lastModified(1415376022567)
+D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\ApexUtils$.class -> lastModified(1415376022547)
+D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\ApexUtils$ReadableDurationOps.class -> lastModified(1415376022577)
+D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\ApexUtils$ReadableInstantOps.class -> lastModified(1415376022577)
+D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\ApexUtils$ReadablePartialOps.class -> lastModified(1415376022587)
+D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\ApexUtils$StringUuidOps.class -> lastModified(1415376022587)
+D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\ApexUtils$UuidOps.class -> lastModified(1415376022597)
+D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\ApexUtils.class -> lastModified(1415376022477)
+D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\Ascii85Coder$$anonfun$decodeAscii85StringToBytes$1.class -> lastModified(1415376022607)
+D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\Ascii85Coder$$anonfun$decodeAscii85StringToBytes$2.class -> lastModified(1415376022617)
+D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\Ascii85Coder$$anonfun$decodeAscii85StringToBytes$3.class -> lastModified(1415376022617)
+D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\Ascii85Coder$.class -> lastModified(1415376022607)
+D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\Ascii85Coder.class -> lastModified(1415376022597)
+D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\AutomaticResourceManagement$.class -> lastModified(1415376022637)
+D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\AutomaticResourceManagement.class -> lastModified(1415376022617)
+D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\WSProxy$$anonfun$1.class -> lastModified(1415376022657)
+D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\WSProxy$.class -> lastModified(1415376022647)
+D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\WSProxy$ProxiedWS$$anonfun$withProxy$1.class -> lastModified(1415376022657)
+D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\WSProxy$ProxiedWS$$anonfun$withProxy$2.class -> lastModified(1415376022667)
+D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\WSProxy$ProxiedWS.class -> lastModified(1415376022657)
+D:\dev\apex\apex-utils\target\scala-2.11\classes\apexutils\WSProxy.class -> lastModified(1415376022647)
+source stamps:
+4 items
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> hash(b612189346723fb0223b2f1102c3b86234f6ba7c)
+D:\dev\apex\apex-utils\src\main\scala\apexutils\Ascii85Coder.scala -> hash(239d69520efe2d9437813824fc5d87e44b1ace11)
+D:\dev\apex\apex-utils\src\main\scala\apexutils\AutomaticResourceManagement.scala -> hash(558bb3f8a85479090ca5a7528b1f407774454ac6)
+D:\dev\apex\apex-utils\src\main\scala\apexutils\WSProxy.scala -> hash(1dd0bd2669446d04c0e817c4367a4b78966bbfde)
+binary stamps:
+6 items
+C:\Program Files\Java\jre7\lib\rt.jar -> lastModified(1379416594162)
+C:\scala-ide-4.00-RC1\plugins\org.scala-lang.scala-library_2.11.4.v20141023-110636-d783face36.jar -> lastModified(1414842604766)
+C:\Users\rpiaggio\.ivy2\cache\com.typesafe.play\play-ws_2.11\jars\play-ws_2.11-2.3.6.jar -> lastModified(1414445646000)
+C:\Users\rpiaggio\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.3.6.jar -> lastModified(1414445667000)
+C:\Users\rpiaggio\.ivy2\cache\joda-time\joda-time\jars\joda-time-2.5.jar -> lastModified(1412319368000)
+C:\Users\rpiaggio\.ivy2\cache\org.freehep\freehep-io\jars\freehep-io-2.2.2.jar -> lastModified(1349725376000)
+class names:
+6 items
+C:\Program Files\Java\jre7\lib\rt.jar -> java.lang.Object
+C:\scala-ide-4.00-RC1\plugins\org.scala-lang.scala-library_2.11.4.v20141023-110636-d783face36.jar -> scala.MatchError
+C:\Users\rpiaggio\.ivy2\cache\com.typesafe.play\play-ws_2.11\jars\play-ws_2.11-2.3.6.jar -> play.api.libs.ws.DefaultWSProxyServer$
+C:\Users\rpiaggio\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.3.6.jar -> play.api.Application
+C:\Users\rpiaggio\.ivy2\cache\joda-time\joda-time\jars\joda-time-2.5.jar -> org.joda.time.ReadablePartial
+C:\Users\rpiaggio\.ivy2\cache\org.freehep\freehep-io\jars\freehep-io-2.2.2.jar -> org.freehep.util.io.ASCII85InputStream
+internal apis:
+4 items
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA5VxH0AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAATYXBleHV0aWxzLkFwZXhVdGlsc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbDuRTxH0RUzJAgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQx4WWgSpUov98CAAFMAAd2YWx1ZSQxcQB+AC94cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AC4AcHNxAH4AM3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADdzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ANnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4ANnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+ABx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AU3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AVHNxAH4AR3QAA0FueXNxAH4AS3NxAH4ATnVxAH4AUQAAAAJzcQB+AFN0AAVzY2FsYXEAfgBadXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4AHHhwdAAJYXBleHV0aWxzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFJivwZOnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAAEc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0ADBEOlxkZXZcYXBleFxhcGV4LXV0aWxzXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0ACVEOlxkZXZcYXBleFxhcGV4LXV0aWxzXHNyY1xtYWluXHNjYWxhc3EAfgBsdAAwRDpcZGV2XGFwZXhcYXBleC11dGlsc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAAkRDpcZGV2XGFwZXhcYXBleC11dGlsc1xzcmNcbWFpblxqYXZhc3EAfgBsdAA1RDpcZGV2XGFwZXhcYXBleC11dGlsc1x0YXJnZXRcc2NhbGEtMi4xMVx0ZXN0LWNsYXNzZXN0ACVEOlxkZXZcYXBleFxhcGV4LXV0aWxzXHNyY1x0ZXN0XHNjYWxhc3EAfgBsdAA1RDpcZGV2XGFwZXhcYXBleC11dGlsc1x0YXJnZXRcc2NhbGEtMi4xMVx0ZXN0LWNsYXNzZXN0ACREOlxkZXZcYXBleFxhcGV4LXV0aWxzXHNyY1x0ZXN0XGphdmF1cgACW0Ks8xf4BghU4AIAAHhwAAAAFLYSGJNGcj+wIjsvEQLDuGI09rp8
+D:\dev\apex\apex-utils\src\main\scala\apexutils\Ascii85Coder.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCsvhZbAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAWYXBleHV0aWxzLkFzY2lpODVDb2RlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbDuRTxH0RUzJAgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQx4WWgSpUov98CAAFMAAd2YWx1ZSQxcQB+AC94cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AC4AcHNxAH4AM3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADdzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ANnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4ANnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+ABx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AU3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AVHNxAH4AR3QAA0FueXNxAH4AS3NxAH4ATnVxAH4AUQAAAAJzcQB+AFN0AAVzY2FsYXEAfgBadXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4AHHhwdAAJYXBleHV0aWxzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFJivwZOnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAAEc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0ADBEOlxkZXZcYXBleFxhcGV4LXV0aWxzXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0ACVEOlxkZXZcYXBleFxhcGV4LXV0aWxzXHNyY1xtYWluXHNjYWxhc3EAfgBsdAAwRDpcZGV2XGFwZXhcYXBleC11dGlsc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAAkRDpcZGV2XGFwZXhcYXBleC11dGlsc1xzcmNcbWFpblxqYXZhc3EAfgBsdAA1RDpcZGV2XGFwZXhcYXBleC11dGlsc1x0YXJnZXRcc2NhbGEtMi4xMVx0ZXN0LWNsYXNzZXN0ACVEOlxkZXZcYXBleFxhcGV4LXV0aWxzXHNyY1x0ZXN0XHNjYWxhc3EAfgBsdAA1RDpcZGV2XGFwZXhcYXBleC11dGlsc1x0YXJnZXRcc2NhbGEtMi4xMVx0ZXN0LWNsYXNzZXN0ACREOlxkZXZcYXBleFxhcGV4LXV0aWxzXHNyY1x0ZXN0XGphdmF1cgACW0Ks8xf4BghU4AIAAHhwAAAAFCOdaVIO/i2UN4E4JPxdh+RLGs4R
+D:\dev\apex\apex-utils\src\main\scala\apexutils\AutomaticResourceManagement.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAn6/sJAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAlYXBleHV0aWxzLkF1dG9tYXRpY1Jlc291cmNlTWFuYWdlbWVudHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbDuRTxH0RUzJAgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQx4WWgSpUov98CAAFMAAd2YWx1ZSQxcQB+AC94cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AC4AcHNxAH4AM3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADdzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ANnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4ANnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+ABx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AU3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AVHNxAH4AR3QAA0FueXNxAH4AS3NxAH4ATnVxAH4AUQAAAAJzcQB+AFN0AAVzY2FsYXEAfgBadXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4AHHhwdAAJYXBleHV0aWxzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFJivwZOnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAAEc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0ADBEOlxkZXZcYXBleFxhcGV4LXV0aWxzXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0ACVEOlxkZXZcYXBleFxhcGV4LXV0aWxzXHNyY1xtYWluXHNjYWxhc3EAfgBsdAAwRDpcZGV2XGFwZXhcYXBleC11dGlsc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAAkRDpcZGV2XGFwZXhcYXBleC11dGlsc1xzcmNcbWFpblxqYXZhc3EAfgBsdAA1RDpcZGV2XGFwZXhcYXBleC11dGlsc1x0YXJnZXRcc2NhbGEtMi4xMVx0ZXN0LWNsYXNzZXN0ACVEOlxkZXZcYXBleFxhcGV4LXV0aWxzXHNyY1x0ZXN0XHNjYWxhc3EAfgBsdAA1RDpcZGV2XGFwZXhcYXBleC11dGlsc1x0YXJnZXRcc2NhbGEtMi4xMVx0ZXN0LWNsYXNzZXN0ACREOlxkZXZcYXBleFxhcGV4LXV0aWxzXHNyY1x0ZXN0XGphdmF1cgACW0Ks8xf4BghU4AIAAHhwAAAAFFWLs/ioVHkJDKWnUosfQHd0RUrG
+D:\dev\apex\apex-utils\src\main\scala\apexutils\WSProxy.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCCObAFAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAARYXBleHV0aWxzLldTUHJveHl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMeFloEqVKL/fAgABTAAHdmFsdWUkMXEAfgAveHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgAuAHBzcQB+ADNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA3c3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADZ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AFN0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AFRzcQB+AEd0AANBbnlzcQB+AEtzcQB+AE51cQB+AFEAAAACc3EAfgBTdAAFc2NhbGFxAH4AWnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+ABx4cHQACWFwZXh1dGlsc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSYr8GTp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAABHNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdAAwRDpcZGV2XGFwZXhcYXBleC11dGlsc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAAlRDpcZGV2XGFwZXhcYXBleC11dGlsc1xzcmNcbWFpblxzY2FsYXNxAH4AbHQAMEQ6XGRldlxhcGV4XGFwZXgtdXRpbHNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAJEQ6XGRldlxhcGV4XGFwZXgtdXRpbHNcc3JjXG1haW5camF2YXNxAH4AbHQANUQ6XGRldlxhcGV4XGFwZXgtdXRpbHNcdGFyZ2V0XHNjYWxhLTIuMTFcdGVzdC1jbGFzc2VzdAAlRDpcZGV2XGFwZXhcYXBleC11dGlsc1xzcmNcdGVzdFxzY2FsYXNxAH4AbHQANUQ6XGRldlxhcGV4XGFwZXgtdXRpbHNcdGFyZ2V0XHNjYWxhLTIuMTFcdGVzdC1jbGFzc2VzdAAkRDpcZGV2XGFwZXhcYXBleC11dGlsc1xzcmNcdGVzdFxqYXZhdXIAAltCrPMX+AYIVOACAAB4cAAAABQd0L0maURtBMDoF8Q2ekt4lmu/3g==
+external apis:
+0 items
+source infos:
+4 items
+D:\dev\apex\apex-utils\src\main\scala\apexutils\ApexUtils.scala -> 
+AAAAAAAAAAA=
+D:\dev\apex\apex-utils\src\main\scala\apexutils\Ascii85Coder.scala -> 
+AAAAAAAAAAA=
+D:\dev\apex\apex-utils\src\main\scala\apexutils\AutomaticResourceManagement.scala -> 
+AAAAAAAAAAA=
+D:\dev\apex\apex-utils\src\main\scala\apexutils\WSProxy.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSYr8GTp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAABHNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMEQ6XGRldlxhcGV4XGFwZXgtdXRpbHNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAJUQ6XGRldlxhcGV4XGFwZXgtdXRpbHNcc3JjXG1haW5cc2NhbGFzcQB+AAV0ADBEOlxkZXZcYXBleFxhcGV4LXV0aWxzXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0ACREOlxkZXZcYXBleFxhcGV4LXV0aWxzXHNyY1xtYWluXGphdmFzcQB+AAV0ADVEOlxkZXZcYXBleFxhcGV4LXV0aWxzXHRhcmdldFxzY2FsYS0yLjExXHRlc3QtY2xhc3Nlc3QAJUQ6XGRldlxhcGV4XGFwZXgtdXRpbHNcc3JjXHRlc3Rcc2NhbGFzcQB+AAV0ADVEOlxkZXZcYXBleFxhcGV4LXV0aWxzXHRhcmdldFxzY2FsYS0yLjExXHRlc3QtY2xhc3Nlc3QAJEQ6XGRldlxhcGV4XGFwZXgtdXRpbHNcc3JjXHRlc3RcamF2YQ==
