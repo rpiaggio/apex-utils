@@ -45,6 +45,7 @@ trait Authenticator[U] {
 		override def invokeBlock[A](request: Request[A], block: AuthenticatedDBSessionRequest[A] => Future[Result]) = {
 			if (Play.isProd && !request.secure) {
 				// http://stackoverflow.com/questions/19147147/best-way-to-force-playframework-2-to-always-use-ssl
+				// IMPORTANT!!! REQUIRES trustxforwarded=true in application.conf
 				Future.successful(Redirect(s"https://${request.domain}${request.path}", 301))
 			} else {
 				super.invokeBlock(request, block)
